@@ -1,0 +1,393 @@
+The Ghost Writer Experiment #1 – the natural phenomena of the heart.  The start of the Jedi
+Mudib Rawoot (World Peace Catalyst Fund)
+Abstract
+This paper present an experiment to show that there is an innate, natural human ability to bring forth what you seek from the randomness.  The experiment uses a binomial statistical test to show that humans can bring an image they seek from randomly drawn images.  It is common thought, that when you bring what you seek from the randomness, it is mere coincidence or random chance.  In all trials, the p-value was less than alpha, indicating that the null hypothesis (random chance) can be rejected in favor of the alternative hypothesis that there is a heart effect.   The implication is that certain people can use the mobile application Icebreakers as an intelligent semiotic device to warn of terrorist attacks or that everyone can use Icebreakers as a semiotic social media device to bring world peace. 
+Introduction:
+Semiotics is the study of signs.  It is used in the hospitality industry to gauge customer trends as well as in the advertising industry to manipulate people into forming buying patterns, additions and habits.  Humans encounter signs in their everyday life and religious scholars say that their respective books is a way for humans to understand and interpret the signs before them so that they may advance in life.
+The defense industry has been trying to make an early warning semiotic device to learn of impending terrorist attacks and other disasters.  They have not been successful.  Most of their attempts has been at social scraping – the analysis of all the text on the internet for a given day or topic and to see if they can find some sort of signage.  The World Peace Catalyst Fund has made huge advancements in this area. 
+Starting from inspiration from the Alethiometer, a simple thought experiment was formed to see if it was possible to answer questions from randomly drawn images using symbols as the language.  An actual mobile application was made around 2018 to test this thought experiment.  Preliminary experimentation showed success.   The application has evolved to have two main usages – the single person usage of the application as an intelligent semiotic device and the dual person usage of the application as a world peace semiotic social media application.
+The single person usage of their application Icebreakers (formerly known as Ghost Writer Alpha) can act as an intelligent semiotic device to warn of impending terrorist attacks and other disasters. The dual person usage of the application can be used to safely foster heart based cross cultural conversations that efficiently reveal what separates us and what bonds us together.  The World Peace Catalyst Fund argues that the more we as humanity know about what separates us and what bonds us together, the closer humans will be to world peace.  To this end, WPCF has formalized an argument on a systemic social mechanism that seems to all but guarantee world peace. 
+Both the single person usage of the application has shown positive results in preliminary testing.  The dual person usage of the application has not been tested yet, however both usages rely on the same principle.  It is reasonable to assert that if the single person usage works, the dual person usage would work as well.  The World Peace Catalyst Fund has provided theory in their report ‘Image Mediated Communication’ as to why the application would work.  They state that there is an innate ability of a human to bring forth what they seek from the randomness.  This effect, they call the heart effect.
+The World Peace Catalyst Fund is organizing 3 experiments to prove that there is a heart effect and that this is not merely coincidence, random chance or hocus pocus.  This paper is the first experiment.  It shows that there seems to be an ability of the human to draw forth what they seek from the randomness.
+The heart
+The heart is universally known as divine across all religions and cultures.  People associate the heart with feelings and emotions and they use the heart to try and feel things with their heart.  People also talk of the heart being in the right place, of putting their heart into it, of seeking with your heart, of following your heart, of manifesting things with their heart.  Anecdotally, it’s a universally accepted natural metaphysical phenomena.  To put numbers to it and to quantify this effect has been impossible until recently. 
+From the scriptures, the heart is described as a divine center. People have received divine revelations from the heart.  Per Islam, the heart is a faculty of learning and knowledge.  It has been written that the heart is used to communicate with God.
+This is another way of the Christian saying from the bible - ‘seek and you will find’.  This is another way to talk about the manifestation of what you seek from the randomness.  Is there anything to say that this ability does not come from the heart?
+There are verses in the Quran that reveal a little bit about the heart.  The heartmath Institute has made some progress in the understanding of these verses and try to tie the physical effects directly to the heart. One of their major thesis or findings of the heart is that as you travel through the lands you learn and you understand with your heart.   
+They tie in the electromagnetics of the land. As you move from place to place, the electromagnetics are different. The electromagnetics have to do with things like the Earth’s gravitational field, the radio waves around you, people’s heads generate waves radio waves are all sorts.  All these waves pass through the heart, they shape the heart and the person’s character. 
+Until recently, there hasn’t been a way to characterize or quantify this phenomenon.  Doctors have created the electrocardiogram (EKG) that can check for different heart conditions.  The Heartmath institute has developed a way to characterize the EKG readings that correlate with behavioral and personality characteristics.   Yet, there still isn’t a way to measure the natural metaphysical phenomena that people speak and know of.  The phenomena being metaphysical in nature, naturally presents itself as a hard physical effect to see. This paper presents a way to characterize and quantify this natural metaphysical phenomena, which the world peace catalyst fund dubs the heart effect.
+Coincidence?
+To go into how this natural metaphysical phenomena can be characterized, the problem statement needs to be clearly identified.  When people start using their heart to manifest what they want or do the other number of things that can be done with the heart, it is akin to saying that people are using their heart to bring forth what they seek out of the randomness. So when people actually do manifest what they seek with their heart, is it random chance or is it some phenomena having to do with the heart?
+There is a big unspoken internal debate between coincidence and things happening for a reason.  When things come together for a persons liking for no known reason, it is often described as coincidence and effect of random chance.  However, the religious knowledge base says there is no such thing as random chance, that things happen for a reason.  People often side with one or the other and is a cause for debate when things come together for no known reason.
+The crux of this debate stems from the fact that when people try to manifest with their heart, it is an internal reaction.  There isn’t an explicit and concrete way to manifest with your heart.  The general steps are to form a thought, intention, to seek/wish and then perform some actions in that general direction.  Other than the actions taken, everything else is internal.  When a person does manifest what they sought, it is not seen by that person as random chance. 
+ When this person describes this manifestation, they say it is not coincidence.  However, the other person does describe this as coincidence and random chance – Just look at how many things had to come together.  Naturally the following questions arise: Why you?  What makes you special?  Why isn’t this just serendipity?  The other person says it is just random chance, it is just a numbers game.
+Experiment description
+This experiment clearly shows that when you intentionally seek something with your heart and you manifest what you seek, it is not random chance.  The experiment is as follows: You think of a specific animal with your head/heart.  You type in the symbol animal into the single person usage of Icebreakers (Alethiometer).  You then scroll through the images of randomly chosen animals and see if the animal you thought of came up.  The animal should come up within x number of images where x is some threshold value.  It can be said that the stronger your heart is, the lower x will be.  For the purpose of this experiment, I set the threshold of x to be 1200. The hypothesis is that if a person puts their heart into it, they can bring forth what they seek out of the randomness.
+The experimental results are a series of yes/no answers.  Either your animal came up or it did not.  This forms a binomial distribution and this is a simple Bernoulli trial.  The binomial statistical significance test can used to differentiate between the null and alternative hypothesis.  The hypothesis are:
+Ho	The probability that the image you held in your heart/mind comes up is random chance.	P0 ≤ 0.01
+Ha	The probability that the image you held in your heart/mind comes up is based on a heart effect.	P>P0
+
+Where P is the probability of drawing your image as random chance.  If there is a heart effect, P will be greater than the random chance probability. P can also be described as the ability of your heart to bring forth what you seek and is a way to numerically quantify and characterize your heart.
+Lets define a general experiment. In a general experiment, you think of an animal in your head and your heart. Let’s say you choose kangaroo and then in the application you type in the symbol animal. The app retrieves 1200 random images with the hashtag animal. 
+What is the probability of kangaroo showing in one of those 1200 images. Let’s say there are 50 million images on the Internet with the hashtag animal.  How many of those images are of a kangaroo?  Defining the random chance probability to be 1%.  1% of 50,000,000 = 500,000 images of the kangaroo on the Internet.  
+Are there 500,000 images of the kangaroo on the internet? Probably, but there is also probably more than 50 million images of animals on the internet. Are 1% of the images of animals on the internet of kangaroos?  Probably not.  In fact, there is probably not 1% of any type of animals on the internet.  This isn’t an exact value, however it is usable.  Help will be needed to clearly hash out the actual probability value of drawing an image you seek from x randomly drawn images on the internet.
+Universal Language
+Another aspect of this experiment is the concept of symbols as a universal language. In this experiment, symbols are what is used to communicate with the heart/mind (internal realm) and Internet (physical realm).  Everyone has their own language that stems from how they were raised, what they learned, how they think and how they value things.   In the physical realm, a symbol holds one shape which is recognized universally.  Yet, it can hold multiple meanings to different people across the universe in the internal realm.  Furthermore, from the multitude of meanings, it can take variable weightings based on the individual. 
+Internet Image Database
+Another aspect of this experiment is the huge trove of images on the internet.  This experiment would not be able to be conducted before like 2015 and that’s because of the database of images on the Internet. A quick google search reveals that as of November 2020, there are more than 4 trillion photos on the internet and that every week 28 billion new photos are added.  Because of this it’s reasonable to assume that you can find an image of almost anything you want to see.  
+Connecting Inner and Outer Realms
+Connecting these two aspects, it can easily be seen that there is a clear path from what is meant internally to what is presented externally.  For clarification, in this generalized experiment, internally a person thinks kangaroo.  Externally, Kangaroo is represented with the symbol animal.  While there are millions and millions of images tied with the symbol animal, since there is a universality with symbols, the outer realm knows what is meant by the heart, if there is a heart effect.
+This experiment is designed to show that when you intentionally seek with your heart, you can draw forth what you seek and that it is not coincidence or merely random chance.  This phenomenon is the heart effect.  
+Method
+This experiment was conducted using the mobile application Icebreakers available on android devices or on pc’s with an emulator such as bluestacks.   It is reproducible at home easily. Creating a profile with the application is the personalization process.  While there are a number of fields, the only required fields are (Date of Birth, Gender, Country, City, Language, Ethnicity).
+The experiment was done 3 times to show reproducibility and consistency.  Each experiment was a Bernoulli trial and analysis based on the binomial distribution was done.  The first experiment had 10 trials, the second experiment had 17 trials and the third experiment had 11 trials.   The date, time, image expected, time to focus and general notes were recorded.  Raw data can be found in the appendix.
+The experiment was done using the single person usage of the application (Alethiometer).  There is no reset function, so to reset the image stream before each experiment, the symbols Alpha&Omega/Anchor/Angel were chosen.  When the experiment was run, the symbol animal was typed into the keyword chooser screen.  The images were then scrolled through until the expected image came up or the image limit (1200) was reached.  If the expected image was drawn the trial was a success, otherwise the trial was a failure.
+In the experiment, special consideration needs to be taken as to what can be considered a success and what is a failure.  It is clear that if the specific animal is drawn, then it is a success.  However, what if the specific animal isn’t drawn, but a similar animal is?  For example, what if you thought German Shepard, but a bull dog is shown? Is this a success?  What if the specific animal isn’t drawn, but a relation to the image that is drawn to your expected animal can be made?  For instance, what if you thought rabbit, but a fox is shown (when I think fox, I also think rabbit – foxes love to eat rabbits)?
+These are special circumstances and since a relation can be drawn to your expected animal, it can be reasoned that your animal did come up in context.  In this type of contextual reasoning, the animal shown could be a signifier to the animal expected.  For all intents and purposes this would be considered a success.  The results of the experiment show the successes based off exact results and relational results for comparison.  
+Statistical Analysis
+This type of experiment fits the requirements for a binomial distribution and is thus subject to the binomial statistical significance tests. The binomial distribution is described with parameters n (number of trials) and p (assumed probability of success for each independent trial). A series of these experiments is called a Bernoulli trial.  The requirements for a binomial distribution are:  
+	Binary outcomes (the image came or it did not)
+	Independent observations (images are randomly drawn)
+	Fixed n (number of trials)
+	Same probability of success (p)
+The binomial statistical test is a test to determine if you can reject a commonly accepted hypothesis in favor of a new one.  The commonly accepted hypothesis is the null hypothesis and states an assumed probability value (p0).  The new hypothesis is the alternative hypothesis and proposes a new value for the probability of success. For a binomial distribution with an assumed p value, the probability of k success occurring can be determined using the binomial equation:
+F(k,n,p) = nCk * (pk)(1-p)(n-k)
+k= # of successes
+n = number of trials
+p = probability of success in a given trial
+The binomial statistical test compares the probability of k success occurring, assuming a probability of success (p0), to a threshold value (.  If the probability of k successes occurring (p-value) is less than the  value, it is considered reasonable to reject the assumed probability of success (p0) in favor of the an alternative probability.  When the p-value is less than alpha, it is said that the chances of k successes occurring was so low, that the assumed probability value (p0) is incorrect and that it is reasonable to consider the alternative hypothesis.
+In this analysis, the following values were chosen:
+Ho	The probability that the image you held in your heart/mind comes up is random chance.	P0 ≤ 0.01
+Ha	The probability that the image you held in your heart/mind comes up is based on a heart effect.	P>P0
+		0.05
+
+(Pk:n,p) is the summation of the probability of k successes occurring from the binomial equation for up to k successes.  
+Pk:n,p = ∑_0^k▒〖F(k,n,p) 〗
+For this type of analysis, the P-value is the probability of at least k success occurring and is given by the following equation:
+P-value = 1- Pk:n,p
+In excel, the following formula was used to determine the P-value:
+P-value  = ‘=1-BINOM.DIST(k,n,P0,True)’
+
+
+
+
+
+Results:
+	Experiment 1	Experiment 2	Experiment 3
+	Exact	Relational	Exact	Relational	Exact	Relational
+trials (n)	10	10	17	17	11	11
+success	5	7	5	14	4	10
+p	0.5	0.7	0.2941	0.8235	0.3636	0.9091
+P-value	2.0289E-10	4.4410E-15	1.1300E-08	0.0000	4.3900E-08	0.0000
+P(x:n,p) < ? (TRUE/FALSE)	TRUE	TRUE	TRUE	TRUE	TRUE	TRUE
+
+Table 1a: Results of all three experiments broken down by exact/relational successes.
+
+	Total
+	Exact	Relational
+trials (n)	38	38
+success	14	31
+p	0.3684	0.8158
+P-value	0.000	0.0000
+P(x:n,p) < ? (TRUE/FALSE)	TRUE	TRUE
+
+Table 1b: Results of the combined total of all three experiments broken down by exact and experimental
+Discussion
+In all trials, when considering both exact and relational successes, the null hypothesis can be rejected in favor of the alternative hypothesis.  When a person uses the mobile application Icebreakers to draw what they seek, in the limit of 1200 images, it is not random chance that the image comes up.  The means that is reasonable to suggest as the World Peace Catalyst Fund does that there is an innate human ability to draw forth what we seek from the randomness.
+It is important to note that a binomial statistical test only allows for denial of the null hypothesis in favor of an alternative hypothesis.  For purposes of discussion, it should be noted that there may be another reason for this effect.  For example, there may be a clairvoyance effect instead of a heart effect.  A person may just have an innate ability to foresee to a certain extent what will come next.  The ability to see that a single animal out of 1200 randomly chosen images may be part of that extent.  There may be another experiment that can be done to differentiate between the two.  For the intents and purposes of the World Peace Catalyst Fund, the explanation of the heart phenomena makes the most sense.
+There is a huge difference in the number of successes occurring based on direct successes versus relational successes.  The average of successes based on exact results is 36.84%, compared to 81.58% for relational results.  This supports the claim that an intelligent semiotic device used by the right person can provide accurate results well over the majority of the time, to the limit of 100%.
+Perusing the raw data, there were a few observations the scientist noted from this exploratory study.  The first being that more successes were recorded when there was no time given to ruminate or have the thought sink in.  This indicates that the heart effect may be more impulsive and instantaneous than originally thought.  The saying live in the moment comes to mind and maybe the heart effect comes alive in the moment.
+The heart effect may have similarities to electricity flow through a wire if you think of the heart as a battery.  The fact that the heart effect can bring up the desired image from randomly drawn images is like the fact that a battery can push electric current through a wire.  A batteries strength is measured in voltage and is the ability to push the electrons through the wire with x force.  The hearts strength may be measured in how soon the image desired shows up (within the first x images).
+Its not entirely clear what makes the effect bring the image sooner.  When the experiment was done consistently after prayer, more successes were recorded.  The Muslim view of prayer is that it is like a meeting with God, which is probably similar to other religions. Meeting with God would surely strengthen your heart.  Yoga may be another way to strengthen the heart.  Improving your reasoning ability by reading and writing may be another way.   More discussion and experimentation will have to be needed to determine some sort of systemic procedure that helps to induce the heart effect consistently and effectively.
+This heart effect is invisible and metaphysical in nature.  The heartmath institute is looking for ways to measure and characterize the heart.  Another binomial statistical test can be done to test the validity of the following type of hypothesis: 
+H0: My heart is P0 percentage good.  P=P0
+Ha: My heart is less than P0 percentage good.  P< P0.
+P-value = Pk:n,p
+In this binomial test, if the P-value > then the null hypothesis can be rejected. Excel was used to determine the P0 at which the null hypothesizes cannot be rejected at an Using the total values from all three combined experiments,P0 was determined to be 91.03% for the scientist conducting the experimentation.
+This number is to be understood that a person is able to bring forth what they seek of the randomness P0 of the time.  This can be a grading of the heart of an individual.  This heart grade may reveal other attributes of a person such as if they are morally straight, mentally fit or spiritually strong.  This type of rationale leads to the idea that a person may improve their heart grade with prescribed activities which is for another discussion.  In addition, per Islamic thought, many diseases originate with a problem associated with the heart, this may be a way to diagnose the heart.
+The ability to improve the heart grade may have some sort spiritual enlightenment, some sort of physical capacity and or some sort of connection with God and the divine. It varies is not based on what religion you follow, but how in tune you are with your heart.  Mastering your deen may be the way to improve your heart grade.  In respect to which religion it may work best in, each person follows a book.  Each book teaches more or less the same general principles albeit in different wordings.  The religion may not matter, rather the individuals symbolic reasoning developed from their particular religious understanding may matter.    
+If this experiment were to be conducted by the masses, a distribution could be formed.  It would be interesting to see the mean and standard deviation of such a distribution.  The heartmath institute was seeking to establish a global heart coherence.  This may fit into their grand scheme as a measure of global heart coherence.  In addition, it may serve as a measure for the spiritual, religious and political communities to gauge the population with the goal of constantly improving the heart grade distribution.  World Peace Catalyst Fund plans to provide instructions for the masses to perform this experimentation on their own and submit the results so such a distribution may be constructed.
+There is probably some type of taxonomy of things that can be brought forth and within those individual classifications, there may be distinct and different heart grades.  This experiment is simple, it can be reproduced easily and there are many other experiments that are in the same level.  An Example would include thinking of a specific food and typing in food as the symbol. The need for a classification becomes apparent when one starts thinking about the types of questions that could be answered with this type of device.
+Not much is known about how the metaphysical aspects of the heart works.  The rationalization that as the heart understands and learns as it travels through the land lends itself to there being some sort of electromagnetic tie in.  In any event, it would be fruitful to converse over how the random images are chosen.
+The images are loaded to databases and are held in some memory location with some sort of indexing and characterization tied to it such that the images sought can be brought forth.  To retrieve the images, electrons would have to pass through the circuitry to the desired memory location and then transfer the stored data back to the user.  When a randomization element is added, how does the electrons know which way to traverse through the servers to land at the image desired?  
+One reason is that at the level of an electron, small forces may be enough to influence the direction that the electron travels through the circuit.  This small force may be induced by the heart, assuming that there is a electromagnetic tie.  Through electromagnetics, the heart may be able to guide the electron through the wiring to the location desired by the heart.  This is a philosophical inquiry that would need to be addressed to understand this thing.
+Another possible way to rationalize this effect is to assume that there is a heart pressure.  When you seek something with your heart, the heart exerts a pressure of sorts.  Assume that each image and each written word also exerts a pressure of sorts.  Perhaps when there is a pressure matching, the thing you seek comes forth.  There may also be an anti-pressure exerted such that it repels this matching.  The anti-pressure may be spread out over all the images.  The more images there are, the less anti-pressure there is and thus the heart is able to exert its force.
+This explanation shows why an individual cannot use their heart to pick out the winning lottery number.  There are only one of each of the 10 possible numbers to choose from, the anti-pressure would be to great on each number for the heart to overcome and thus cannot exert its force.  With images from the internet, there are millions of each possible image type and thus the anti-pressure becomes infinitesimally small as it is spread out over a large number of images, allowing the heart to exert its force.
+Conclusion
+This experiment confirms what has been known anecdotally for quite some time – That things happen for a reason.  It also provides a green light for the work of the World Peace Catalyst Fund and provides investors and philanthropists reason to pump money into the nonprofit.  
+Further experimentation will be done to see if the heart effect can also be used to answer questions formed through symbols.  Preliminary testing already shows that this is significant given a P0 <1% - the application has answered questions more than 2 times which is enough to say that there is an effect.  Formalization of the experiment will be needed.  This success means that Icebreakers can be used as an intelligent semiotic device to warn of terrorist attacks and impending disasters.
+More philosophical work will need to be done to hash out specifics such as who can answer which types of questions.  Those that can answer the question ‘What are terrorist planning today for tomorrow?’ successfully can be considered the first jedi.  Research and development work can be done to fine tune this device to near 100% success.
+Further experimentation will be done to test if the dual person usage of the application can be used to efficiently bring images that show the two users what separates them or what bonds them.  Since this is a mobile application, anyone with digital access can play this connect the dots game, meaning that at any one moment, there may be millions or billions of cross cultural conversations and the social bonds of society being revealed.  From the many cross cultural conversations, they can all be sent in for centralized analysis by the WPCF which can then pull out the common themes of bonding.  These common themes of bonding can then be magnified and sent to the billions of people in the world to enhance social bonding and thus bring world peace.
+WPCF already as an argument that has yet to be countered on a systemic social mechanism that seems to all but guarantee world peace.  Their reasoning suggests that in conflict areas such as Israel/Palestine, Russia/Ukraine or any other region, peace can be brought about in a matter of weeks with mass systemic questioning.  Successful experimentation will prove Icebreakers to be a catalyst for world peace.
+
+
+
+
+
+
+
+
+
+Appendix:
+Experiment #1:
+8/25/23
+   		Thought camel
+    		Camel showed in second image on first try
+		Spent some time focusing on it
+		Exact
+8/29/23 5pm
+		Thought parrot
+		Parrot did not show, checked 50 or so images
+		Did not spend much time focusing on it
+8/30/23 5pm
+		Thought Dolphin
+		Started focusing on day before at recording of previous experiment
+		Reset at 1130am with apple, baby, beehive
+		Dolphin came in image 205
+		Fish images came up in images 56-58
+		Exact
+8/31/23 6pm
+		Think peregrine falcon
+		Start focusing on day before at recording of previous experiment
+Reset at end of previous experiment with apple, baby, beehive… forgot to reset so I rest at onset of experiment
+		First picture was picture of a bird
+		Picture 805 was of hawk/falcon with words pere
+		Rest of pics did not load after pic 810
+		Experiment conducted after prayer
+		Don’t split hairs
+		Relational
+
+9/1/23
+		Think rat
+		Start focusing in morning at 8am
+		Reset at 8am with apple, baby, beehive
+		Image 19 was image of rat
+		Experiment conducted after asr prayer
+		Experimentation was done when preoccupied and flustered with work
+		Exact
+9/2/23 9am
+		Badger
+		Start thinking at 11pm at night
+		Reset at 11pm with apple, baby, beehive
+		No image of badger
+		After image 810, images stopped loading
+		Experiment done after waking up
+9/2/23 730pm
+		Komodo dragon
+		Start thinking Komodo dragon at 9am
+		Reset with apple, baby, beehive
+		Image 614 is image of Komodo dragon
+I didn’t think this experiment would work because the other experiments are common animals, dolphin, rat camel.  The internet is filled with many images of this.  The more specific ones have less images and would thus be harder to bring foth
+		Experiment done at 730pm after asr prayer
+		Exact
+9/3/23 1145am
+		Bat
+		Start thinking at 730pm
+		Reset with apple, baby, beehive
+		Bat image did not show, checked up to image 1200
+		This was done in morning.  I was up for a couple of hours
+9/3/23 530pm
+		Dog – German Shepard
+		Start thinking at 1200pm
+		Reset with apple, baby, beehive
+Image 32 was image of snow leopard.  I was thinking of using snow leopard as animals to test with.  Instead I choose German Sheppard
+Image 208 is first image of dog.  A few images between 208-220 are of dogs.  Maybe signifier
+		Checked 1200 images, no German shepherd
+		Experiment is conducted after asr prayer
+		Relational
+9/5/23 3pm
+		Snake, start thinking at 6pm on 9/4
+		Reset with apple, baby, bee hive
+		Image 112 is image of snake
+		Experiment after work meeting
+		Exact
+Experiment #2:
+I will think of a specific animal with heart focus.  I will start thinking of animal at end of previous prayer.  At end of prayer, I will focus on animal for 30 seconds. 
+
+9/25/23 fajr, 600am
+		Think tiger starting at isha pervious day
+		Image stream only went to 200
+		No images of tiger
+		There were images of cats, starting at like image 25
+		Focused for 30 seconds
+Reset with aaa
+9/25/23 zuhr 330pm
+		Think squirrel
+		Image stream stopped at 200
+		No images of squirrel
+		Spent 30 seconds focusing beforehand
+9/25/23 asr 600pm
+		Think penguin
+		Forgot to reset after last prayer so I reset before I did this experiment
+		3rd picture was picture of bird.  Lots of bird pics
+		Image 446 was puffin which is similar to penguin
+		Images stopped loading after around 800
+		Spent 30 seconds focusing
+		Reset with aaa
+		Some other animals I thought of previously came up like tiger, lion
+9/25/23 isha 1122pm
+		Started thinking rhinoceros right after isha prayer
+		Image 63 is image of rhino
+		Thought for 30 seconds
+		Reset with aaa
+9/26/23 fajr 600am
+		Thought moose
+		Image 97 is one of elk/caribou
+		106 is deer, maybe moose
+		236 is moose clearly
+		Focused for 30 seconds
+		Reset with aaa
+9/26/23 zuhr 350pm
+		Think rabbit
+		Image 104 is that of fox
+		Image 130 is hare = rabbit
+		Focused for 30 seconds
+		Reset with aaa
+9/26/23 asr 630pm
+		Think sea horse
+		Image 13 is fish
+		Image 18 is octopus
+		After image 20, no images loaded
+		Did not focus for 30 seconds beforehand
+		Reset with AAA
+9/26/23 maghrib 710pm
+		Think dingo
+		Image 22 is that of dog
+		Images stopped loading after image 820
+		Lots of images of dogs towards end
+		Focused for 30 seconds
+		Reset with aaa
+9/26/23 isha 1103pm
+		Think crocodile
+		Image 58 is hippo.  59 is rhino, 61 is elephant
+		Checked 1200 images, no alligator
+		Focused for 30 seconds
+		Reset with aaa
+9/26/23 zuhr 340pm
+		Think snake
+		Image 150 is sea snake
+		Image 182 is another snake
+		Did not focus for 30 seconds
+		Rest with AAA
+9/26/23 asr 610pm
+		Think panda
+		Images did not load after image 20
+		Did not focus for 20 seconds
+		Reset with aaa
+9/26/23 isha 115pm
+		Think coyote
+		Image 1 is that of dog
+		Image 61 is that of wolves
+		Images stopped loading after image 220
+		Focused for 30 seconds
+		Reset with aaa
+9/27/23 zuhr 415pm
+		Think crow
+		Image 8 is bird
+		Images stopped loading after 25
+		No image of crow
+		Did not focus for 20 seconds
+		Reset with aaa
+9/27/23 asr 630pm
+		Think whale
+		For some reason app did not work, same images as before showed up
+		Did not focus for 30 seconds
+		Reset with aaa
+9/29/23 zuhr 417pm
+		Think ostrich
+		2nd image is bird – cockatoo
+		Images 4,-7 also birds
+		Image 5 is penguin, what I thought earlier
+		14 is peacock
+		Image 485 is ostrich head
+9/29/23 asr 550pm
+		Forgot to reset after last prayer
+		Think shark
+Image 14 is fish
+		Images stopped loading after image 20
+		Focused for 30 seconds
+		Reset with aaa
+9/30/23 zuhr 236pm
+		Think armadillo
+		Image 1 is chipmunk (rodent related)
+		Images stopped loading after 420
+		Images of squirrels, lizards and crocodiles
+		Focused for 30 seconds
+		Reset with aaa
+Experiment #3
+No focus time, Reset with aaa
+
+10/2/23 zuhr, 415pm
+		Think polar bear
+		1st image was black bear
+		Images stopped loading after image 12
+		No focus
+		Was not reset beforehand
+		Relational
+10/3/23, asr 554pm
+		Was reset with aaa at last test
+		Think spider
+		Image 138 was spider
+		No focus
+		Exact
+10/4/23, zuhr 412pm
+		Reset with aaa at beginning of this test
+		Think salamander
+		Image 2 was a wall lizard
+		No focus
+		Reset with aaa
+		Relational
+10/6/23 maghrib 655pm
+		Think owl
+		Image 4 is duck
+		Image 104 is owl
+		No focus
+		Reset with aaa
+		Exact
+10/7/23 asr 633pm
+		Think seal
+		Image 64 is seal
+		Reset with aaa
+		No focus
+		Exact
+10/7/23 maghrib 705pm
+		Think narwhale
+		Image 69-82 was killer whale
+		Images stopped loading after 1000
+		No focus
+		Reset with aaa
+		Relational
+10/8/23 zuhr, 227pm
+		Think llama
+		Image 7 is deer
+		Image 14 is horse
+		Image 41 is llama
+		Exact
+10/8/23 asr, 559pm
+		Think bever
+		Images stopped loading after 220 
+		No beaver
+		Forgot to rest at last experiment so I reset with aaa at beginning of this experiment
+		Rest with aaa for next experiment
+10/8/23 maghrib, 705pm
+		Think orangutang
+		Image 5 is beaver, from pervious experiment
+		Image 294 is monkey
+		Image 962 is monkey
+		Relational
+10/9/23 zuhr, 230pm
+		Think centipede
+		No centipede image showed
+		Lots of bird images… birds eat centipedes
+Butterly/moth images… butterflies/moths come from caterpillars which are like centipedes
+		No focus
+		Rest with aaa
+		Relational
+10/9/23 asr, 625pm
+		Think zebra
+		Image 13 is elephant like African animals like zebra
+		Image 7 is horse like zebra
+		Images stopped loading after image 20
+		No focus
+		Reset with aaa
+		relational	
